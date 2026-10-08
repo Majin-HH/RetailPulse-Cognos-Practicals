@@ -1,0 +1,17 @@
+Order Date,Region,Store,Product Category,Units Sold,Sales Amount (₹)
+2026-07-05,North,RP-N01 Delhi Central,Electronics,42,126000
+2026-07-12,North,RP-N02 Chandigarh Mall,Apparel,78,62400
+2026-07-18,South,RP-S01 Chennai Express,Groceries,215,43000
+2026-07-22,South,RP-S02 Bengaluru Tech Park,Electronics,35,105000
+2026-07-30,East,RP-E01 Kolkata Salt Lake,Home & Kitchen,60,72000
+2026-08-04,East,RP-E02 Jamshedpur Bistupur,Apparel,95,76000
+2026-08-09,West,RP-W01 Mumbai Andheri,Electronics,50,150000
+2026-08-15,West,RP-W02 Pune Viman Nagar,Groceries,180,36000
+2026-08-21,North,RP-N01 Delhi Central,Home & Kitchen,40,48000
+2026-08-27,South,RP-S02 Bengaluru Tech Park,Apparel,66,52800
+2026-09-03,East,RP-E01 Kolkata Salt Lake,Electronics,28,84000
+2026-09-10,West,RP-W01 Mumbai Andheri,Home & Kitchen,55,66000
+2026-09-14,North,RP-N02 Chandigarh Mall,Groceries,150,30000
+2026-09-19,South,RP-S01 Chennai Express,Home & Kitchen,48,57600
+2026-06-23,East,RP-E02 Jamshedpur Bistupur,Groceries,120,24000
+2026-06-27,West,RP-W02 Pune Viman Nagar,Apparel,70,56000
