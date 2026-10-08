@@ -1,10 +1,10 @@
 # RetailPulse – IBM Cognos Analytics Practicals
 
-**Name:** Hetish
-**Roll No:** 54
-**Course:** BCA (Data Science & AI), Section BCADS23
-**University:** Babu Banarasi Das University (BBD University), Lucknow
-**Instructor:** Ms. Monica Rao
+**Name:** Hetish  
+**Roll No:** 54  
+**Course:** BCA (Data Science & AI), Section BCADS23  
+**University:** Babu Banarasi Das University (BBD University), Lucknow  
+**Instructor:** Ms. Monica Rao  
 **Tool Used:** IBM Cognos Analytics (Cloud Trial)
 
 ---
@@ -16,15 +16,17 @@ RetailPulse is a sample retail business. In these six practicals, sales and cust
 ```
 RetailPulse-Cognos-Practicals/
 ├── README.md
-├── RetailPulse - First Sales Report.pdf              (Practical 1)
-├── RetailPulse - Grouped Sales Report.pdf            (Practical 2)
-├── RetailPulse - Filtered Sales Report.pdf           (Practical 3)
-├── RetailPulse Region-Product Crosstab.pdf           (Practical 4)
-├── RetailPulse Sales Prompt Report.pdf               (Practical 5)
-├── RetailPulse Customer Insights Dashboard.pdf       (Practical 6)
-├── RetailPulse_Sales_Dataset.xlsx                    (sales data – Practicals 1-5)
-├── RetailPulse_Sales_Dataset.csv                     (same sales data in CSV)
-└── RetailPulse_Customers (1).xlsx                    (customer data – Practical 6)
+├── dataset/
+│   ├── RetailPulse_Sales_Dataset.xlsx      (sales data – Practicals 1-5)
+│   ├── RetailPulse_Sales_Dataset.csv       (same sales data in CSV)
+│   └── RetailPulse_Customers (1).xlsx      (customer data – Practical 6)
+└── reports/
+    ├── RetailPulse - First Sales Report.pdf              (Practical 1)
+    ├── RetailPulse - Grouped Sales Report.pdf            (Practical 2)
+    ├── RetailPulse - Filtered Sales Report.pdf           (Practical 3)
+    ├── RetailPulse Region-Product Crosstab.pdf           (Practical 4)
+    ├── RetailPulse Sales Prompt Report.pdf               (Practical 5)
+    └── RetailPulse Customer Insights Dashboard.pdf       (Practical 6)
 ```
 
 ## 🧪 Practicals Summary
@@ -52,9 +54,9 @@ RetailPulse-Cognos-Practicals/
 
 ## 🛠️ How to Reproduce
 1. Log in to IBM Cognos Analytics.
-2. Upload the dataset files (`.xlsx` / `.csv`) from this repository (**My content → Upload data**).
+2. Upload the files from the `dataset/` folder (**My content → Upload data**).
 3. Create a new report/dashboard and select the uploaded data module.
 4. Build each report as described in the table above and export as PDF.
 
 ## 📎 Reports
-All six exported PDF reports are available in this repository (see the structure above).
+All exported PDFs are available in the [`reports/`](./reports) folder.
